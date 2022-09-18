@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "lato";
+    src: url("../fonts/lato/lato-hairline.ttf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "lato";
+    src: url("../fonts/lato/lato-light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "lato";
+    src: url("../fonts/lato/lato-regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "lato";
+    src: url("../fonts/lato/lato-bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "lato";
+    src: url("../fonts/lato/lato-black.ttf");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "faune";
+    src: url("../fonts/faune/faune-hairline.ttf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "faune";
+    src: url("../fonts/faune/faune-light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "faune";
+    src: url("../fonts/faune/faune-regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "faune";
+    src: url("../fonts/faune/faune-bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "faune";
+    src: url("../fonts/faune/faune-black.ttf");
+    font-weight: 900;
+}
+
+.black {
+    font-weight: 900;
+}
+
+html {
+    font-family: lato;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: faune;
+}
+
+h2 {
+    font-family: faune;
+}
+
+h3 {
+    font-family: faune;
+}
+
+h4 {
+    font-family: faune;
+}
+
+p {
+    font-family: lato;
+}

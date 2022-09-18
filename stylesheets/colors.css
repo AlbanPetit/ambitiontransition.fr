@@ -1,0 +1,31 @@
+.background-green {
+    background-color: #286c45;
+}
+
+.background-light-green {
+    background-color: #588e67;
+}
+
+.background-mega-light-green {
+    background-color: #81bea9;
+}
+
+.background-ultra-light-green {
+    background-color: rgba(35, 135, 0, 0.1);
+}
+
+.background-white {
+    background-color: white;
+}
+
+.color-white {
+    color: white;
+}
+
+.color-green {
+    color: #286c45;
+}
+
+.color-orange {
+    color: #FFA800;
+}
