@@ -1,3 +1,5 @@
-particlesJS.load('particles-js', './javascripts/particles.json', function() {
-    console.log('callback - particles.js config loaded');
-  });
+document.addEventListener("DOMContentLoaded", function () {
+  particlesJS.load('particles-js', './javascripts/particles.json', function() {
+      console.log('callback - particles.js config loaded');
+    });
+})
